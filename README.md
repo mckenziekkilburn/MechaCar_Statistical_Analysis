@@ -3,7 +3,7 @@
 __________________________________________________
 
 
-## Linear Regression to Predict MPG
+# Linear Regression to Predict MPG
 __________________________________________________
 
 ##### *- Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?*
@@ -17,6 +17,21 @@ __________________________________________________
 - I would say that the model is a good way for us to predict mpg of MechCar prototypes effectively. The reasoning is we recieved a 71% for our multiple r-squared value. What this is telling us is that we have a 71% chance of our MechaCar data being correct through our linear model.  
 
 
-##### Results 
+###  MechaCar Results 
+________________________________________________
 
 ![Deliverable1](https://github.com/mckenziekkilburn/MechaCar_Statistical_Analysis/blob/master/images/Deliverable1.PNG)
+
+
+
+________________________________________________
+
+# Summary Statistics on Suspension Coils
+
+________________________________________________
+
+### *Total Summary Results & Lot Summary Results*
+
+![total_summary](https://github.com/mckenziekkilburn/MechaCar_Statistical_Analysis/blob/master/images/total_summary.PNG)![lot_summary](https://github.com/mckenziekkilburn/MechaCar_Statistical_Analysis/blob/master/images/lot_summary.PNG)
+
+##### 
